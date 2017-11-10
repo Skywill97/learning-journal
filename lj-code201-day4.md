@@ -4,10 +4,9 @@ Make sure to properly name branches to not get confused with older ones.
 Also a good idea to remove old branches.
 
 Using /' lets you use an apostrophe in messages.
-'it\'s'
+'it(\)'s' <--no parentheses
 
 Having whitespace in Java & CSS is OK while in HTML it's not preferred.
 
-Whitespace between + example +
-                    ^       ^
-                    |       |
+Whitespace between + example + (space between + and example)
+                    
