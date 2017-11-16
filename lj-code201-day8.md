@@ -11,3 +11,4 @@
 8:00 - 10:30PM - Finish lab homework I didn't get done / read / journal / anything else due
 10:30 - 11:00PM - Get ready for bed
 11:00PM - Go to bed
+_
